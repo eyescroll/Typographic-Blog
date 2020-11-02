@@ -2,7 +2,7 @@ backend:
   name: github
   repo: eyescroll/Typographic-Blog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: https://tender-feynman-ab0030.netlify.app #Your site on netlify
+  site_domain: tender-feynman-ab0030.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
