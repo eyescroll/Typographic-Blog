@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://fontasticmemes.netlify.app"   #change this to yours
-repository: maxemes/Typographic-Blog
+url: "https://tender-feynman-ab0030.netlify.app"   #change this to yours
+repository: eyescroll/Typographic-Blog
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
